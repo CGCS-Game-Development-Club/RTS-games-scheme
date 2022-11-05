@@ -5,7 +5,6 @@ RTS-games
 
 ### 规范
 请提交md文件。
-如果实在学不会md，请使用txt格式。
 
 ### .md文件(markdown文件)使用：
 
